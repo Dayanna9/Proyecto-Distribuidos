@@ -19,7 +19,7 @@ class HomePage extends StatelessWidget {
             _Card(
                 Icons.video_library_outlined, 'Videos', 'Accede a tus videos.'),
             _Card(Icons.sync_outlined, 'Sincronización',
-                'Sincroniza con el servidor.'),
+                'Sincroniza tu información.'),
           ]),
         ],
       );
